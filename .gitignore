@@ -1,0 +1,7 @@
+# no files
+*.db
+*.log
+
+# ignore aal files int re directory
+target/
+bin/
