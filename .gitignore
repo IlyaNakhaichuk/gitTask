@@ -2,6 +2,6 @@
 *.db
 *.log
 
-# ignore aal files int re directory
-target/
-bin/
+# ignore directory
+/target
+/bin
